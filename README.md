@@ -41,6 +41,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=josephvalerian17&show_icons=true&theme=radial" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephvalerian17&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephvalerian17&theme=radial" alt="GitHub Streak" width="100%" />
 </p>
