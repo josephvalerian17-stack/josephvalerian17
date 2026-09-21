@@ -38,8 +38,11 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=josephvalerian17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephvalerian17&theme=radial" alt="GitHub Streak" width="100%" />
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephvalerian17&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
