@@ -1,6 +1,6 @@
-<!-- Banner (Opsional - Nilai Plus) -->
+<!-- Banner Header -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Selamat+Datang+ke+Profil+GitHub+Saya" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selamat%20Datang%20ke%20Profil%20GitHub%20Saya&fontSize=30" width="100%" alt="Header Banner" />
 </p>
 
 # Hi there, I'm Joseph Valerian Amarta WidyaA 👋
