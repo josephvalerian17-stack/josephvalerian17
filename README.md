@@ -39,10 +39,11 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=josephvalerian17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephvalerian17&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephvalerian17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephvalerian17&theme=tokyo-night" alt="Top Languages & Activity" width="100%" />
 </p>
