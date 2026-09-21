@@ -1,11 +1,6 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selamat%20Datang%20ke%20Profil%20GitHub%20Saya&fontSize=30" width="100%" alt="Header Banner" />
-</p>
+# Hi there, I'm Joseph Valerian Amarta Widya 👋
 
-# Hi there, I'm Joseph Valerian Amarta WidyaA 👋
-
----
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joseph%20Valerian%20Amarta%20Widya&fontSize=40&fontAlignY=38&desc=Business%20Information%20Technology%20Student%20@BINUS&descAlignY=62&descAlign=50)](https://github.com/Alhaidar13)
 
 ## 🙋‍♂️ Details / About Me
 
@@ -43,9 +38,9 @@
 
 ---
 
-## 📊 GitHub Stats (Opsional)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephvalerian17&show_icons=true&theme=radial" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvalerian17&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=josephvalerian17&show_icons=true&theme=radial" alt="Statistik GitHub" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josephvalerian17&layout=compact&theme=radial" alt="Bahasa Terbanyak" width="48%" />
 </p>
